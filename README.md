@@ -18,7 +18,7 @@ A user story has the following scenarios for verifying that a user has the corre
 
 To get started we should break down the ACs for our first set of tests. To keep things simple we will only be concerned with the output of the method at first.
 
-        ### ./spec/userDetailsSpec.js
+### ./spec/userDetailsSpec.js
 
 ```js
 var userDetails = require( '../app/userDetails' );
