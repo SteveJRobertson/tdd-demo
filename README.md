@@ -46,7 +46,7 @@ describe( 'verify user details', function () {
 } );
 ```
 
-The first line requires the module to be tested, in this case it will be found at ./app/userDetails.js.
+The first line requires the module to be tested, in this case it will be found at `./app/userDetails.js.`
 
 The first `describe()` method is the name of the method being tested. There is a subsequent `describe()` method for each of the scenarios from the user story. Under each of these are a number of `it()` methods. It is here where our tests will go.
 
